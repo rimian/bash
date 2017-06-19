@@ -5,6 +5,7 @@ alias la='ls -A'
 alias l='ls -CF'
 
 # my aliases
+alias e='ember'
 alias at='atom'
 alias g='git'
 alias be='bundle exec'
