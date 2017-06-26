@@ -6,6 +6,7 @@ alias l='ls -CF'
 
 # my aliases
 alias e='ember'
+alias et='ember test --server'
 alias at='atom'
 alias g='git'
 alias be='bundle exec'
