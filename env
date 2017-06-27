@@ -1,0 +1,4 @@
+
+# work stuff
+export ANDROID_HOME=$HOME/androidSDK
+export PATH=$PATH:$ANDROID_HOME/tools

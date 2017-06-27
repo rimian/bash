@@ -94,6 +94,7 @@ alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo
 
 . ~/.bash/bash_aliases
 . ~/.bash/git-prompt
+. ~/.bash/env
 
 # enable programmable completion features (you don't need to enable
 # this, if it's already enabled in /etc/bash.bashrc and /etc/profile
