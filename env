@@ -1,5 +1,6 @@
 
 # work stuff
-# export ANDROID_HOME=$HOME/androidSDK
-# export PATH=$PATH:$ANDROID_HOME/tools
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/tools
 export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
+export PATH=$PATH:/usr/bin/gradle
