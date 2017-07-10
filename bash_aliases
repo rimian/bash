@@ -5,6 +5,7 @@ alias la='ls -A'
 alias l='ls -CF'
 
 # my aliases
+alias a='ack'
 alias e='ember'
 alias et='ember test --server'
 alias at='atom'
